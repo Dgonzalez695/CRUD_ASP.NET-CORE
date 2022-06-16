@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj": {}
+    "C:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj": {
+    "C:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "c:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj",
+        "projectPath": "C:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj",
         "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\obj\\",
+        "outputPath": "C:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

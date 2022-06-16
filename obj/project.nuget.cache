@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bOLB/tinbi4N26YuVCdpo5HLQw7yHuq10SnmQYIhINz5G+VwqRMJEwzYzMEgV9KNeOaiZMxC9lCMf2QBTOXZSA==",
+  "dgSpecHash": "sDh4wD0YpOlAdKNjCPfcfR6brl3KnDsZeVA3lk+P4skZTVObIpgnTHz2CD45z+ZGA1+AQtLYz53Q+TPIzqXJXA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj",
+  "projectFilePath": "C:\\Users\\SoporteTI\\Documents\\David Gonzalez\\PROYECTOS\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoporteTI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
