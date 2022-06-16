@@ -6,21 +6,23 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using CRUD.Models;
+using CRUD.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace CRUD.Controllers
 {
-    public class HomeController : Controller
+    public class UserController : Microsoft.AspNetCore.Mvc.Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ApplicationDbContext _context;
+        public UserController(ApplicationDbContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        [HttpGet]
+        public async Task <IActionResult> Index()
         {
-            return View();
+            return View(await _context.Usuario.ToListAsync());
         }
 
         public IActionResult Privacy()
